@@ -3,7 +3,7 @@
 ## Overview
 **T.I.O. (Text Image Obfuscation)** is a Python-based application that allows users to encrypt and decrypt images using a form of steganography. The application leverages random pixel generation to create an encryption key image and overlays an obfuscated text image on top of it. The encrypted image can then be decrypted using the same key image to reveal the hidden text. The application also provides an easy-to-use graphical user interface (GUI) for managing encryption and decryption workflows.
 
-This tool is useful for hiding messages or sensitive information inside images in a visually non-obvious manner.
+This tool is useful for hiding messages or sensitive information inside images in a visually non-obvious manner. But be aware that this **might not be entirely safe**.
 
 ## Features
 - **Encrypt Images:** Select any image containing text and encrypt it with a randomly generated key image.
