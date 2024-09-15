@@ -74,4 +74,4 @@ You can modify the following default settings within the script:
 - It provides feedback in case of incorrect width/height inputs or missing files during encryption and decryption processes.
 
 ## License
-T.I.O (Text Image Obfuscation) is released uunder the MIT license. See [LICENSE](LICENSE)
+T.I.O (Text Image Obfuscation) is released under the MIT license. See [LICENSE](LICENSE)
